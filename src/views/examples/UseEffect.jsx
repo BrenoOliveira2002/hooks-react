@@ -3,7 +3,6 @@ import PageTitle from '../../components/layout/PageTitle'
 import { useState } from 'react'
 import { useEffect } from 'react'
 import SectionTitle from '../../components/layout/SectionTitle'
-import { useInsertionEffect } from 'react'
 
 function calcFatorial(num) {
 
